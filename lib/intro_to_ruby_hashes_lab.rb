@@ -8,7 +8,7 @@ def my_hash
     name: "Dave",
     occupation: "teacher"
   }
-  my-hash
+  my_hash
 end
 
 def pioneer
