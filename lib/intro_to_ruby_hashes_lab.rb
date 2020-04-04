@@ -6,6 +6,7 @@ end
 def my_hash
   my-hash = {
     name: "Dave"
+    occupation: "teacher"
   }
   my-hash
 end
